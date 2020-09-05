@@ -2,6 +2,7 @@
   "name": "mary-undoer-knots",
   "version": "1.0.0",
   "private": true,
+  "description": "Unfailing Novena To The Virgin Mary Untier of Knots",
   "scripts": {
     "dev": "nuxt-ts",
     "build": "nuxt-ts build",
